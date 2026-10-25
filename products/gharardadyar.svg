@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f6f1e4"/>
+  <rect x="168" y="64" width="464" height="472" rx="18" fill="#8b6914"/>
+  <rect x="196" y="92" width="408" height="416" fill="#fffdf8"/>
+  <rect x="196" y="92" width="28" height="416" fill="#e4d3a1"/>
+  <text x="420" y="300" text-anchor="middle" font-family="Tahoma, Vazirmatn, sans-serif" font-size="52" font-weight="700" fill="#8b6914">??????????</text>
+  <text x="420" y="352" text-anchor="middle" font-family="Tahoma, Vazirmatn, sans-serif" font-size="24" fill="#6b6560">????</text>
+</svg>

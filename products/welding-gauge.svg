@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f8f1ea"/>
+  <rect x="90" y="250" width="620" height="36" rx="8" fill="#8a5a32"/>
+  <rect x="120" y="210" width="70" height="116" rx="8" fill="#c47a3a"/>
+  <rect x="560" y="180" width="28" height="176" rx="6" fill="#6b6560"/>
+  <circle cx="400" cy="268" r="54" fill="#fffdf8" stroke="#b8860b" stroke-width="10"/>
+  <text x="400" y="420" text-anchor="middle" font-family="Tahoma, Vazirmatn, sans-serif" font-size="48" font-weight="700" fill="#8a5a32">¯Ì, ,H4</text>
+</svg>
